@@ -11,6 +11,8 @@ You can get this repo working with the install instructions below.  The assignme
 ## Grading
 
 You will only get 100 if the entire QR program passes GitHub actions, so you will need to update the production.yml file to have your info and setup your environment variables on the repository.
+Screenshot - 
+![Github action passed](action_pass.png)
 
 # Instructor Videos
 * [Rest API Project Overview](https://youtu.be/xEcBKSSXxhQ)
