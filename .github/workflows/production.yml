@@ -4,10 +4,10 @@ on:
   push:
     branches:
       - main
+      - homework9-fix
   pull_request:
     branches:
       - main
-      - homework9-fix
 
 jobs:
   test:
